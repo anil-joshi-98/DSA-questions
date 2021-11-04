@@ -1,4 +1,4 @@
-package DSA;
+
 import java.util.Scanner;
 public class Subsequences {
     public static void main(String[] args) {
